@@ -54,7 +54,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,github,postman,tailwind,git,vite,js,py,ts,react,nodejs,express,bun,redux,nextjs,prisma,postgres&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,tailwind,vite,js,py,ts,react,nodejs,express,bun,nextjs,postgres&perline=14" />
   </a>
 </p>
 
@@ -69,11 +69,25 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-mishbakhuz-zuhail-026bb2286/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/_._mmzuh_._/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/1243128068982313062" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<a href="https://github.com/muhammadmishbakhuzzuhail"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:muhammadmishbakhuzzuhail@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/muhammad-mishbakhuz-zuhail-026bb2286/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_._mmzuh_._/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://discord.com/users/ID_DISCORD_ANDA">
+  <img src="https://img.shields.io/badge/discord-7289DA?style=plastic&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Competitive Programming <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+ <a href="https://leetcode.com/u/muhammadmishbakhuzzuhail/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a> 
+</p>
+
 
 
 <!--profile visit count-->
