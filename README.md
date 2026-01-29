@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cihuyyy...;Icikiwir...;Aihihihi...;"></a>
 </p>
-<div align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muhammadmishbakhuzzuhail&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</div>
+
 
 <p align="center"></p>
 
